@@ -13,13 +13,13 @@
   </p>
 </p>
 
-You can create a normal birthday reminder program using `python`. You need to set the date and time of the birthday and reminder and you'll get an reminder of your or your friend's birthday notification. But I feel that this program is useless because you've to keep this code runnig... we can create a notification to make this code cooler and ready to public use. Well, develop and add features to this code mr. `Developer` `Researcher` 
+You can create a normal birthday reminder program using `python`. You need to set the date and time of the birthday and reminder, and you'll get a reminder of your or your friend's birthday. However, this program is not very useful because you have to keep the code running. You can add a notification to make it more useful and ready for public use. Develop and add features to this code, `Developer` `Researcher`.
  ```
 What the program does? 
 
 - User will select birthday
 - User will select time of the reminder
-- In that day | time program will wish her/him a happy birthday ❤️
+- On that day and time, the program will wish them a happy birthday ❤️
 ``` 
 ### Requirements
 
@@ -28,7 +28,7 @@ What the program does?
 
 ### Contributing
 
-Any kind of contributions to `qxresearch-event-1/birthday-reminder` are welcome. While creating an issue(for this project) use `Birthday-Reminder` Label.
+Any kind of contribution to `qxresearch-event-1/birthday-reminder` is welcome. When creating an issue for this project, use the `Birthday-Reminder` label.
 
 1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork) the Project
 2. Commit your Changes
