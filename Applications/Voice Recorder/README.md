@@ -13,39 +13,39 @@
   </p>
 </p>
 
-This is a simple voice recorder program, written in `Python` by `@qxresearch org.` User have to set the time-limit and run the program. After that specific time the program will stop and a file will be created with `.wav` extention in the same location of source-code.
+This is a simple voice recorder program, written in `Python` by `@qxresearch org.` The user sets the recording time limit and runs the program. After that specific time, the program stops and a file with the `.wav` extension is created in the same location as the source code.
 
 ```
-What the program does? 
+What the program does?
 
 - Your default mic starts recording
-- The recording is saved in the same locatoin of source-code
-- After custorm time the program exits
-``` 
- 
+- The recording is saved in the same location as the source code
+- After the custom time, the program exits
+```
+
 ### Requirements
 
-* Python[ >= python3.1]
-* Python Libraries: `sounddevice` `scipy`
-* provide your required `time` in `second` for record during the compilation
+* Python 3 (`>= 3.1`)
+* Python libraries: `sounddevice` and `scipy`
+* Provide the required recording length in `seconds` when running the program
 
 ### Contributing
 
-Any kind of contributions to `qxresearch-event-1/voice-recorder` are welcome. While creating an issue(for this project) use `Voice-Recorder` Label.
+Contributions to `qxresearch-event-1/voice-recorder` are welcome. When creating an issue for this project, use the `Voice-Recorder` label.
 
-1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork) the Project
-2. Commit your Changes
+1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork) the project
+2. Commit your changes
 3. Open a [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls)
 
 ### Video Tutorial
 
-* **YouTube :** [Voice Recorder](https://youtu.be/eTtPUk01cGc)
+* **YouTube:** [Voice Recorder](https://youtu.be/eTtPUk01cGc)
 
-### Become Official Member @qxresearch
+### Become an Official Member of @qxresearch
 
-* Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
-* Join Telegram Group [@qxresearch](https://t.me/qxresearch)
-* <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (**subject**: GitHub id @qxresearch)
+* Join the Mozilla group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
+* Join the Telegram group [@qxresearch](https://t.me/qxresearch)
+* <a href = "mailto: rohitmandal814566@gmail.com">Email</a> me your GitHub ID (**subject**: GitHub ID @qxresearch)
 
 
 <h3 align="center"></h3>
